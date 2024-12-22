@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Johnson-123-208
+- 👋 Hi, I’m @Johnson Obhalloju
 - 👀 I’m interested in AI Engineering
 - 🌱 I’m currently learning Data Science with GenAI
 - 💞️ I’m looking to collaborate on Machine Learning
