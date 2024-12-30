@@ -33,7 +33,7 @@
 
 #### You can also find me on: 
 
-[<img align="left" alt="entbappy | LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
+[<a href="www.linkedin.com/in/johnson-obhalloju-8747a6320"><img align="left" alt="entbappy | LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" /></a>][linkedin]
 [<img align="left" alt="entbappy | LeetCode" width="30px" src="https://user-images.githubusercontent.com/36547915/97088991-45da5d00-1652-11eb-900f-80d106540f4f.png" />][LeetCode]
                                                                                                                                                                        
 
