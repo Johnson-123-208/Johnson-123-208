@@ -11,9 +11,8 @@
 * Natural Language Processing
 * MLOps
 * Generative AI 
-* Microcontrollers 
-* Robotics
-
+* LLMs
+* RAG Application
 
 
 <h3 align="left">Languages and Tools:</h3>
