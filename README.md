@@ -1,44 +1,212 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
-<h1 align="center">I'm Johnson 😀</h1>
-<h4 align="center">I'm an Upcoming Data Scientist | Fresher </h4>
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> Hey there! I'm Johnson Obhalloju
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Aspiring+Data+Scientist;AI%2FML+Engineer;EEE+Graduate;Problem+Solver;Innovation+Enthusiast" alt="Typing SVG" />
+</div>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Coding GIF"/>
+</div>
 
-### I have theoritical experience and interest in:
-* Deep Learning
-* Machine Learning
-* Computer vision 
-* Natural Language Processing
-* MLOps
-* Generative AI 
-* LLMs
-* RAG Application
+---
 
+## 🚀 About Me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="320" />
 
-### My Hobbies and interests:
-* Traveling
-* Singing
-* Coding
+🎯 **Current Role:** Associate Data Process Analyst at Tech Mahindra  
+🌱 **Currently Learning:** Advanced MLOps and Generative AI  
+💡 **Passionate About:** Building AI solutions that drive real-world impact  
+🎓 **Background:** EEE Graduate turned AI/ML Engineer  
+📍 **Location:** Medak, Telangana, India  
+⚡ **Fun Fact:** 4-time consecutive Chess Champion at JNTUH College!
 
+### 🏆 Professional Highlights
+- 🎯 **99.85% accuracy** in data processing, surpassing UK benchmark
+- 📊 **89% ML model accuracy** boosting customer targeting by 15%
+- 🤖 Built **Generative AI chatbot** with 85% FAQ resolution accuracy
+- 🏅 **First Prize** winner at JNTUH Project Expo 2024
+- 📚 **IEEE Published Research** on Grid Connected PV Systems
 
+---
 
-<!-- <hr>
+## 💻 Tech Stack & Skills
 
+<div align="center">
 
-<hr> -->
+### 🐍 Programming Languages
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
 
-#### You can also find me on: 
+### 🤖 Machine Learning & AI
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
+<img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" alt="OpenCV"/>
+<img src="https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge&logoColor=black" alt="Hugging Face"/>
 
-[<a href="www.linkedin.com/in/johnson-obhalloju-8747a6320"><img align="left" alt="entbappy | LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" /></a>][linkedin]
-[<img align="left" alt="entbappy | LeetCode" width="30px" src="https://user-images.githubusercontent.com/36547915/97088991-45da5d00-1652-11eb-900f-80d106540f4f.png" />][LeetCode]
-                                                                                                                                                                       
+### 📊 Data Science & Analytics
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="Tableau"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
 
-<br>
+### 🛠️ Tools & Technologies
+<img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+<img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code"/>
 
-<hr>
+### ☁️ Cloud & Databases
+<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP"/>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
 
-[linkedin]: www.linkedin.com/in/johnson-obhalloju-8747a6320
-[LeetCode]: [https://leetcode.com/entbappy/](https://assets.leetcode.com/users/obhallojujohnson/avatar_1734853485.png)
+</div>
+
+---
+
+## 🎯 Areas of Expertise
+
+<div align="center">
+  
+```text
+🧠 Deep Learning              ██████████████████████████████ 90%
+📊 Machine Learning          ██████████████████████████████ 92%
+👁️ Computer Vision           ████████████████████████████   85%
+🗣️ Natural Language Processing ██████████████████████████     80%
+🔧 MLOps                     ████████████████████████       75%
+🤖 Generative AI             ██████████████████████████████ 88%
+🔗 LLMs & RAG Applications   ████████████████████████████   82%
+📈 Data Visualization        ██████████████████████████████ 90%
+```
+
+</div>
+
+---
+
+## 🏢 Professional Experience
+
+### 🔹 **Associate Data Process Analyst** | Tech Mahindra
+*June 2025 – Present | Hyderabad*
+- 🎯 Achieved **99.85% accuracy** processing 864+ scripts/day
+- 🏆 Set new company records, surpassing UK benchmark by 141 scripts/day
+- 🌍 Handled diverse handwriting styles and regional spelling differences
+- 👥 Mentored team members on marking standards and quality assurance
+
+### 🔹 **Data Scientist Intern** | Ramanasoft
+*Dec 2024 – April 2025 | Hyderabad*
+- 🤖 Built ML models achieving **89% accuracy** for customer targeting
+- ⚡ Automated preprocessing pipelines, reducing data prep time by **40%**
+- 🤝 Developed Generative AI chatbot with **85% FAQ resolution accuracy**
+- 📊 Created interactive Power BI dashboards for stakeholders
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+### 🏥 Medical Image Classification
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Johnson-123-208/Medical_Image_Classification_1)
+- 🧠 CNN-based X-ray classifier with **94%+ accuracy**
+- 🎨 Animated Streamlit UI with voice output and theme toggle
+- 🔬 Real-time medical image analysis capabilities
+
+### 💳 Financial Fraud Detection System
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Johnson-123-208/Financial_Fraud_Detection_System)
+- 🎯 ML pipeline achieving **0.96 AUC score**
+- ⚡ Real-time transaction scoring system
+- 🔍 Ensemble models for fraud identification
+
+</div>
+
+---
+
+## 📈 GitHub Analytics
+
+<div align="center">
+  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Johnson-123-208&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Johnson-123-208&layout=compact&hide_border=true&theme=radical" />
+
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Johnson-123-208&theme=radical&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Johnson-123-208&theme=react-dark&hide_border=true&area=true" />
+</div>
+
+---
+
+## 🏆 Achievements & Certifications
+
+### 🎖️ **Awards**
+- 🥇 **First Prize** - Project Expo, JNTUH College of Engineering (2024)
+- ♟️ **4-time Chess Champion** - JNTUH College (Consecutive years)
+- 📚 **IEEE Publication** - Grid Connected PV System Research
+
+### 📜 **Certifications**
+- 🎓 Data Science with Generative AI - Quality Thought (2025)
+- 💼 Data Science Intern Certificate - RamanaSoft (2025)
+
+---
+
+## 🎨 Interests & Hobbies
+
+<div align="center">
+  
+🌍 **Traveling** | 🎵 **Singing** | 💻 **Coding** | ♟️ **Chess** | 🔬 **Research**
+
+</div>
+
+---
+
+## 📊 Weekly Development Breakdown
+
+<!--START_SECTION:waka-->
+```text
+Python       12 hrs 45 mins  ████████████████████▓   82.1%
+SQL          1 hr 32 mins    ██▓░░░░░░░░░░░░░░░░░░   9.8%
+Jupyter      45 mins         █▒░░░░░░░░░░░░░░░░░░░   4.8%
+Markdown     30 mins         ▒░░░░░░░░░░░░░░░░░░░░   3.2%
+Other        15 mins         ░░░░░░░░░░░░░░░░░░░░░   0.1%
+```
+<!--END_SECTION:waka-->
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johnson-obhalloju-8747a6320/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Johnson-123-208)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://johnson-123-208.github.io/Portfolio/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:obhallojujohnson@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/entbappy/)
+
+</div>
+
+---
+
+<div align="center">
+  
+### 💡 *"Turning data into insights, insights into solutions, and solutions into impact!"*
+
+<img src="https://komarev.com/ghpvc/?username=Johnson-123-208&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!;Let's+connect+and+build+amazing+things!;Open+to+collaborations+and+opportunities!" alt="Typing SVG" />
+</div>
